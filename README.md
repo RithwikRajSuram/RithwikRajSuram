@@ -1,6 +1,6 @@
 # Hi, I'm Rithwik Raj Suram 👋
 
-I'm a Healthcare Data Analyst with a passion for using data to solve real problems in clinical care, public health, and population health management. I work across the full analytics pipeline — from wrangling messy real-world datasets to building predictive models and designing dashboards that actually get used by decision-makers.
+I'm a Healthcare Data Analyst with a passion for using data to solve real problems in clinical care, public health, and population health management. I work across the full analytics pipeline from wrangling messy real-world datasets to building predictive models and designing dashboards that actually get used by decision makers.
 
 My background sits at the intersection of health informatics and applied machine learning, and I'm especially drawn to projects where the analysis can change how care is delivered or how health policy gets made.
 
