@@ -49,3 +49,5 @@ My background sits at the intersection of health informatics and applied machine
 *"The goal is to turn data into information, and information into insight."*
 
 ![Rithwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RithwikRajSuram&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RithwikRajSuram&layout=compact&hide_border=true)
