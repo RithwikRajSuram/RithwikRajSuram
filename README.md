@@ -21,18 +21,20 @@ My background sits at the intersection of health informatics and applied machine
 
 ## 📊 Live Dashboards
 
-🔗 **[Explore all 9 interactive dashboards →](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p)** — KPIs, charts, and data-provenance notes built from the projects below.
+[![Explore All 9 Interactive Dashboards](https://img.shields.io/badge/📊_Explore_All_9_Interactive_Dashboards-2a78d6?style=for-the-badge)](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p)
+
+KPIs, charts, and data-provenance notes built from the projects below.
 
 ## 📌 Featured Projects
 
 | Project | What It Does | Tools | Dashboard |
 |---|---|---|---|
-| [BRFSS Transgender Health Analysis](https://github.com/RithwikRajSuram/BRFSS-Transgender-Health-Descriptive-Analysis) | Descriptive analysis of health disparities in transgender populations using CDC BRFSS survey data | R, tidyverse | [View →](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#brfss) |
-| [Chronic Kidney Disease Prediction](https://github.com/RithwikRajSuram/Predictive-Modeling-of-Chronic-Kidney-Disease) | ML model (Random Forest + Logistic Regression) predicting CKD onset from clinical lab values | Python, Scikit-learn | [View →](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#ckd) |
-| [Public Health & Tobacco Mortality Trends](https://github.com/RithwikRajSuram/Public-Health-Trends-Analysis-based-on-Tobacco-Use-and-Mortality-Patterns) | Time-series analysis of tobacco use rates and mortality patterns across U.S. states | Python, Pandas, Matplotlib | [View →](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#mortality) |
+| [BRFSS Transgender Health Analysis](https://github.com/RithwikRajSuram/BRFSS-Transgender-Health-Descriptive-Analysis) | Descriptive analysis of health disparities in transgender populations using CDC BRFSS survey data | R, tidyverse | [![View](https://img.shields.io/badge/View-2a78d6?style=flat-square)](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#brfss) |
+| [Chronic Kidney Disease Prediction](https://github.com/RithwikRajSuram/Predictive-Modeling-of-Chronic-Kidney-Disease) | ML model (Random Forest + Logistic Regression) predicting CKD onset from clinical lab values | Python, Scikit-learn | [![View](https://img.shields.io/badge/View-2a78d6?style=flat-square)](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#ckd)|
+| [Public Health & Tobacco Mortality Trends](https://github.com/RithwikRajSuram/Public-Health-Trends-Analysis-based-on-Tobacco-Use-and-Mortality-Patterns) | Time-series analysis of tobacco use rates and mortality patterns across U.S. states | Python, Pandas, Matplotlib | [![View](https://img.shields.io/badge/View-2a78d6?style=flat-square)](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#mortality) |
 | [Oral Health Determinants](https://github.com/RithwikRajSuram/Socioeconomic-and-Behavioral-Determinants-of-Oral-Health) | Regression analysis exploring socioeconomic and behavioral drivers of oral health outcomes | Python, Seaborn | — |
-| [Flight Price Classification](https://github.com/RithwikRajSuram/Flight-Price-Classification) | SVM classification of Indian domestic flight prices and destinations | Python, Scikit-learn | [View →](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#flight) |
-| [Retail Sales Data Analysis](https://github.com/RithwikRajSuram/retail-sales-data-analysis) | Revenue trends and demand patterns across categories and demographics | Python, Pandas | [View →](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#retail) |
+| [Flight Price Classification](https://github.com/RithwikRajSuram/Flight-Price-Classification) | SVM classification of Indian domestic flight prices and destinations | Python, Scikit-learn | [![View](https://img.shields.io/badge/View-2a78d6?style=flat-square)](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#flight) |
+| [Retail Sales Data Analysis](https://github.com/RithwikRajSuram/retail-sales-data-analysis) | Revenue trends and demand patterns across categories and demographics | Python, Pandas | [![View](https://img.shields.io/badge/View-2a78d6?style=flat-square)](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#retail) |
 
 ---
 
